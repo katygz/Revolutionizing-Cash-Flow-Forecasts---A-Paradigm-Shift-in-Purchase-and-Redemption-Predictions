@@ -1,4 +1,6 @@
- - data_inspection_analysis
- - data_mining_baseline
- - feature_engineering_modeling
- - Time Series Forcasting
+ - Data_Inspection_Analysis
+ - Baseline
+ - Data_Mining_Baseline
+ - Time Series Forecasting
+ - Feature_Engineering_Modeling
+   
